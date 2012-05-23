@@ -1,59 +1,16 @@
 [Eagle]
 Version="06 02 00"
-Platform="Linux"
+Platform="Mac OS X"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/home/paul/eagle/lbr/SparkFun.lbr"
-UsedLibrary="/home/paul/eagle/lbr/adafruit.lbr"
-UsedLibrary="/home/paul/eagle/lbr/avr-7.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/19inch.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/40xx.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/41xx.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/45xx.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/jumper.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/jump-0r-smd.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/isd.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/infineon.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/infineon-tricore.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/inductors.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/inductor-nkl.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/inductor-neosid.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/inductor-coilcraft.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/intersil.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/ir.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/ic-package.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/holtek.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/holes.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/heatsink.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/halo-electronics.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/gennum.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/display-kingbright.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/display-lcd.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/docu-dummy.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/ecl.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/em-microelectronic.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/exar.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/etx-board.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fairchild-semic.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/farnell.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fiber-optic-hp.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fifo.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fiber-optic-siemens.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/flexipanel.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fox-electronics.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/frames.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/freescale.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/ftdichip.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fujitsu.lbr"
-UsedLibrary="/home/paul/eagle/lbr/lbr/fuse.lbr"
 
 [Win_1]
 Type="Board Editor"
-Loc="0 0 1435 179"
+Loc="0 22 1279 212"
 State=2
 Number=1
 File="CD-Ripper.brd"
@@ -92,7 +49,7 @@ Layer=16
 
 [Win_2]
 Type="Schematic Editor"
-Loc="861 205 1190 895"
+Loc="861 83 1190 773"
 State=2
 Number=2
 File="CD-Ripper.sch"
@@ -133,12 +90,12 @@ Sheet=1
 
 [Win_3]
 Type="Control Panel"
-Loc="0 205 856 895"
+Loc="320 218 919 617"
 State=2
 Number=0
 
 [Desktop]
-Screen="2880 900"
+Screen="1280 800"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
